@@ -35,4 +35,13 @@ Date: Tue Sep 2 16:33:42 2025 -0400
 
    Added README.md and answers file
 
-9. 
+9. On branch main 
+   Your branch is up to date with 'origin/main'.
+
+   nothing to commit, working tree clean
+
+10. No 
+
+11. An error message appears
+
+12. Yes, the changes were relected in my local copy
